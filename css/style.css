@@ -272,9 +272,9 @@ line-height: 1.4;
 
 .service__img{
     display: flex;
-    position: absolute;
-    top: 75%;
-    right: 17%;
+    position: relative;
+    bottom: 148px;
+    left: 11%;
     height: 100%;
     z-index: -1;
     margin-bottom: 160px;
